@@ -6,13 +6,13 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      # 21 runs Gradle; 8 is what the 1.12.2 toolchain compiles/runs with
+      # 25 runs Gradle; 8 is what the 1.12.2 toolchain compiles/runs with
       - uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
           java-version: |
             8
-            21
+            25
 
       - uses: gradle/actions/setup-gradle@v4
 
