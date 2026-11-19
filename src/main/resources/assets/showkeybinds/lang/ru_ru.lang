@@ -1,0 +1,14 @@
+showkeybinds.config.title=Настройки
+showkeybinds.config.category.hotbar=Хотбар
+showkeybinds.config.category.container=Блоки/сущности, обладающие интерфейсом
+showkeybinds.config.general.enableHotBarText=Отображение символов на хотбаре
+showkeybinds.config.general.offHandText=Отображение горячей клавиши второй руки
+showkeybinds.config.general.shadowedText=Тень символов
+showkeybinds.config.general.rainBowText=Радужные символы
+showkeybinds.config.general.hotBarTextColor=Цвет символов на хотбаре
+showkeybinds.config.general.itemCountColor=Цвет символов отображения количества предметов
+showkeybinds.config.container.enableContainerText=Отображение символов в меню блоков/сущностей, обладающих интерфейсом
+showkeybinds.config.container.shadowedText=Тень символов
+showkeybinds.config.container.rainBowText=Радужные символы
+showkeybinds.config.container.containerTextColor=Цвет символов в меню блоков/сущностей, обладающих интерфейсом
+showkeybinds.config.container.containerScale=Размер символов в меню блоков/сущностей, обладающих интерфейсом

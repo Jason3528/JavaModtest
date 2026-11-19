@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "showkeybinds",
+    "name": "Show Keybinds",
+    "description": "Show key binding on Hotbar and Inventory!",
+    "version": "26.2.1",
+    "mcversion": "1.12.2",
+    "authorList": ["SJKZ1"],
+    "credits": "Ported from the Fabric/NeoForge 26.2 version to Forge 1.12.2",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
